@@ -411,7 +411,6 @@ main()
 
 # 📸 Capturas de ejecución
 
-Agregar aquí imágenes mostrando el funcionamiento del programa:
 
 
 <img width="363" height="318" alt="image" src="https://github.com/user-attachments/assets/191bfc3c-60dc-4e43-9306-3649e8c649e2" />
